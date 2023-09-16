@@ -1,0 +1,5 @@
+temp/
+log/*
+!log/*.html
+
+temp/APS.txt
